@@ -31,6 +31,7 @@ fun numbers(num1:Int,num2:Int):Int {
     return output
 
 }
+  // No 1
 fun String(Strng:codeHive):String {
     var campus="codHive"
     println(campus[4])
